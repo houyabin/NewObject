@@ -7,5 +7,7 @@ public class Hello{
 		System.out.println("绗簩娆′笉鐭ラ亾璇寸偣鍟�");
 
 		System.out.println("abcdef123456");
-	}
+
+		System.out.println("Idea Update Hello.java File");
+		}
 }
